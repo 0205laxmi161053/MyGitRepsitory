@@ -4,7 +4,7 @@ class HelloGit{
 
 
 	Public static final void helloGit(String str){
->>>>>>> idea
+
 		System.out.println("Hello Git...Welcome..");
 	}
 
